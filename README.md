@@ -7,6 +7,7 @@ about the angularjs2 help doc;关于angularjs2的使用帮助文档
 
 
 # 内容目录
+
   [官网](#官网)
   [书籍](#书籍)
   [视频](#视频)
@@ -37,6 +38,7 @@ about the angularjs2 help doc;关于angularjs2的使用帮助文档
   * [Angularjs2 cli主页](https://cli.angular.io/)
   * [官方风格指导主页](https://angular.io/styleguid)
   * [AngularJS 2](https://universal.angular.io/)
+
 # 书籍
 
 | 标题                                                                                                                                                   |                  作者                  |       出版商      |    ng 版本    | 更新日期 |
@@ -50,6 +52,7 @@ about the angularjs2 help doc;关于angularjs2的使用帮助文档
 
 
 # 视频
+
 * [Egghead.io](https://egghead.io/technologies/angular2/)
 * [Angular 2 开速开始教程](https://www.youtube.com/playlist?list=PL55RiY5tL51olfU2IEqr455EYLkrhmh3n)
 * [掌握你的Angular 2 Workflow](https://www.youtube.com/watch?v=NSibZPEtm7o)
@@ -59,6 +62,7 @@ about the angularjs2 help doc;关于angularjs2的使用帮助文档
 * [NG 配置完全列表](https://www.youtube.com/user/ngconfvideos)
 * [Angular 学院视频系列](https://www.youtube.com/watch?v=pCE0A3ZkIhA&list=PLOa5YIicjJ-WDC7tEgD_krKalYWVnixXE)
 * [John Papa的Angular 2 教程](https://www.youtube.com/watch?v=W_mUCydxpAM)
+
 # 课程
 # 帮助
 # 入门向导
