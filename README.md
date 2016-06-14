@@ -1,34 +1,54 @@
 # Angularjs2
-about the angularjs2 help doc;关于angularjs2的使用帮助文档
-
+关于angularjs2的使用帮助文档
 毋庸置疑， angualarjs2 会是一个十分优秀的作品，如果你的项目还没有使用该技术，赶紧加入吧
 为了缩短你的工期，特地制作了该帮助文档。下面内容翻译自该项目：
-[英文站点](https://github.com/PremiseHealth/AngularJS2-Learning)
+[英文站点](https://github.com/PremiseHealth/AngularJS2-Learning)，非常感谢Jeff Cunningham的站点
 
 
 # 内容目录
 
   [官网](#官网)
+
   [书籍](#书籍)
+
   [视频](#视频)
+
   [课程](#课程)
+
   [帮助](#帮助)
+
   [入门向导](#入门向导)
+
   [最佳实践](#最佳实践)
+
   [Angualarjs1 到 Angualarjs2指导](#Angualarjs1 到 Angualarjs2指导)
+
   [课程学习](#课程学习)
+
   [简单应用](#简单应用)
+
   [组件](#组件)
+
   [依赖注入](#依赖注入)
+
   [服务](#服务)
+
   [Promises](#Promises)
+
   [路由](#路由)
+
   [认证](#认证)
+
   [测试](#测试)
+
   [本地化](#本地化)
+
   [UI素材](#UI素材)
+
   [Ionic2](#Ionic2)
+
   [NativeScript](#NativeScript)
+  
   [流行的第三方模块](#流行的第三方模块)
 
 # 官网
